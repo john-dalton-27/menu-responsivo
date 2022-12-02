@@ -1,18 +1,16 @@
-Exercício de menu responsivo utilizando flexbox, do curso DevQuest
+<h1>Exercício de menu responsivo utilizando flexbox, do curso DevQuest</h1>
 
 <br>
 
-##Tecnologias utilizadas:
+<h2>Tecnologias utilizadas:</h2>
 - HTML
 - CSS
 
 <br>
 
-##Descrição do exercício:
+<h2> Descrição do exercício:</h2>
 Criar um menu de navegação responsivo utilizando os meus conhecimentos em flexbox.
 
-##Dificuldades e aprendizado:
+<h2>Dificuldades e aprendizado:</h2>
 - Foi um exercício bem desafiador. Melhorei muito minhas técnicas de flexbox e responsividade, cuidando sempre para ter o melhor resultado possível em todas as resoluções!
 
-##Créditos finais:
-- Exercício criado por <a href="https://github.com/devemdobro/devemdobro" target="_blank">Dev em dobro</a> e resolvido por<a href:"https://github.com/john-dalton-27" target="_blank"> John Dalton</a>
